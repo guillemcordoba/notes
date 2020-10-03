@@ -1,0 +1,5 @@
+# Philosofy
+
+- "Love of wisdom"
+- 
+
