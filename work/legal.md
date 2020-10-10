@@ -34,3 +34,12 @@
   - Model 347 si el client passa de 3005€ a l'any
   - IVA +21%
   - IRPF -> 7% els primers 2 anys o 15% general
+- La baixa s'aconsegueix al cap, i es porta a Asepeyo
+
+
+## Coses a tenir en compte 
+
+- Fer totes les factures d'ingressos i despeses
+- Posar les despeses de casa a nom meu
+- Presentar IVA informatiu 
+- Model 130 IRPF
