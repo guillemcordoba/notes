@@ -24,6 +24,9 @@
 - Preguntar si la factura s'ha de pagar amb € o amb pounds
 - Al IRPF es tramiten tant els ingressos com les despeses 
 
+- Hisenda certificat digital
+  - Fabrica nacional de moneda y timbre -> codi a hisenda
+
 ## FAQ
 
 - Si hi ha un client dins de la UE -> 349
