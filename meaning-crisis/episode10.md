@@ -1,0 +1,21 @@
+# Consciousness
+
+- Function of consciousness -> Zero-in of relevant information
+  - Highly dynamic 
+- Builds an agent <> arena relationship
+- Feauturization -> Foregrounding -> Figuration -> Framing
+- Salience landscape -> optimal grip 
+- presence lanscape (affordance -> what can you do in this landscape?)
+    - Graspable
+    - Walkable
+    - Throwable
+- Depth landscape -> figure out causal patterns
+- Significance landspace -> what is meaningful?
+- Piaget -> development: shifting of constraints
+- Insight OF your consciousness -> change the salience landscape at some level shifts the constraints and allow you to improve your performance at a whole problem class
+- Ontonormativity: demand of our ontology of the world
+- Altered states of consciousness -> potential to create insight OF consciousness
+  - Change agent-arena relationship -> more in contact with reality
+- What's more real is what makes more sense
+  - Higher state of consciousness makes more sense than your everyday life
+  - CORE OF THE AXIAL REVOLUTION
