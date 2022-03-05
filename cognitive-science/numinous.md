@@ -1,0 +1,1 @@
+- Category of things outside of your framing, that are misterious to you
