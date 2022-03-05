@@ -1,4 +1,0 @@
-# 
-
-- Illes artificials
-- Residencia 

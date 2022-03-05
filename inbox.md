@@ -1,3 +1,4 @@
 # Foam tips
 
-_For up-to-date tips, see [Foam Recipes](https://foambubble.github.io/foam/recipes)._
+- [Recomanacions per positive forms of hyperlocalization](https://twitter.com/SeamusOhAilin/status/1499919069054595073)
+
